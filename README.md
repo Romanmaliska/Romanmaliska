@@ -4,10 +4,8 @@ Welcome to my GitHub page.
 <h2 align="center" color="#8700ff">
 I'm Roman, front-end developer from Slovakia. Love coding and coffee. 
 </h2>
-<h1 align="center" color="#8700ff">Trophies
+<h1 align="center" color="#8700ff">My Trophies
 </h1>
-<h3 align="center">A Cool Collection of Trophies</h3>
-
 [![Roman's Trophies](https://github-profile-trophy.vercel.app/?username=Romanmaliska)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center" color="#8700ff">Things I code with
