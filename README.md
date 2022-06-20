@@ -23,11 +23,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romanmaliska&theme=solarized_dark) 
 
-<div display="flex" color=>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Romanmaliska&theme=solarized_dark&utcOffset=8) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanmaliska&theme=solarized_dark&langs_count=10&layout=compact)
-</div>
+
 
 
 
