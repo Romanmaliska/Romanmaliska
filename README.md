@@ -17,16 +17,17 @@
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<h1>My Stats
-</h1>
+<h1>My Stats</h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romanmaliska&theme=solarized_dark) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanmaliska&theme=solarized_dark&langs_count=10&layout=compact)
-
-![](http://github-readme-streak-stats.herokuapp.com?user=Romanmaliska&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romanmaliska&theme=solarized_dark) 
 
+<div display="flex" color=>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Romanmaliska&theme=solarized_dark&utcOffset=8) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanmaliska&theme=solarized_dark&langs_count=10&layout=compact)
+</div>
+
+
 
