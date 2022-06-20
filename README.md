@@ -1,10 +1,16 @@
+<h1 align="center" color="#8700ff">
+Welcome to my GitHub page.
+</h1>
+<h2 align="center" color="#8700ff">
+I'm Roman, front-end developer from Slovakia. Love coding and coffee. 
+</h2>
 <h1 align="center" color="#8700ff">Trophies
 </h1>
 <h3 align="center">A Cool Collection of Trophies</h3>
 
 [![Roman's Trophies](https://github-profile-trophy.vercel.app/?username=Romanmaliska)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center" color="#8700ff">Socials & Skills
+<h1 align="center" color="#8700ff">Things I code with
 </h1>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
