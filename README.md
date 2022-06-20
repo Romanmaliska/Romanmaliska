@@ -8,7 +8,7 @@ I'm Roman, front-end developer from Slovakia. Love coding and coffee.
 </h1>
 <h3 align="center">A Cool Collection of Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=Romanmaliska)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Romanmaliska)
 
 <h1 align="center" color="#8700ff">Things I code with
 </h1>
