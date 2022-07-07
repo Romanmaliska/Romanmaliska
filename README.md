@@ -1,15 +1,16 @@
-<h1 align="center" color="#8700ff">
+<div align="center">
+<h1 color="#8700ff">
 Welcome to my GitHub page.
 </h1>
-<h2 align="center" color="#8700ff">
+<h2 color="#8700ff">
 I'm Roman, front-end developer from Slovakia. Love coding and coffee.
 </h2>
-<h1 align="center" color="#8700ff">My trophies
+<h1 color="#8700ff">My trophies
 </h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=Romanmaliska)
 
-<h1 align="center" color="#8700ff">Things I code with
+<h1 color="#8700ff">Things I code with
 </h1>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -22,7 +23,7 @@ I'm Roman, front-end developer from Slovakia. Love coding and coffee.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanmaliska&theme=chartreuse-dark&langs_count=10&layout=compact)
 
-
+<div>
 
 
 
