@@ -5,10 +5,6 @@ Welcome to my GitHub page.
 <h2 color="#8700ff">
 I'm Roman, front-end developer from Slovakia. Love coding and coffee.
 </h2>
-<h1 color="#8700ff">My trophies
-</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=Romanmaliska)
 
 <h1 color="#8700ff">Things I code with
 </h1>
