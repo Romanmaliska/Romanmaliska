@@ -19,9 +19,6 @@ I'm Roman, front-end developer from Slovakia. Love coding and coffee.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanmaliska&theme=chartreuse-dark&langs_count=10&layout=compact)
 
-<h1 color="#8700ff">I Love Algorithms
-</h1>
-
 ![](https://www.codewars.com/users/will.haven/badges/large)
 
 <div>
